@@ -6,5 +6,7 @@ public class third {
 
         System.out.println("second commit");
 
+        System.out.println("third time commit");
+
     }
 }
